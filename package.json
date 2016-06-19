@@ -1,0 +1,27 @@
+{
+  "name": "find-common-route",
+  "version": "1.0.0",
+  "description": "Finds common route",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "googlemaps": "^1.6.0",
+    "microtime": "^2.1.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritoj/common-route-finder.git"
+  },
+  "author": "Pritoj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pritoj/common-route-finder/issues"
+  },
+  "homepage": "https://github.com/Pritoj/common-route-finder#readme"
+}
